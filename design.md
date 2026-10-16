@@ -177,6 +177,7 @@ The tree illustrates node expansions evaluated by accumulated path cost $g(n)$:
 
 #### Group Discussion & Collaboration Evidence:
 Below is the virtual session screenshot showing active group deliberation and screen-sharing of `design.md` on VS Code via Google Meet:
+<img width="1418" height="866" alt="team_meeting" src="https://github.com/user-attachments/assets/4dad546f-d154-478e-b4eb-e38d31f45ae6" />
 
 ![Group Discussion Evidence](./team_meeting.png)
 
